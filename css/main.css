@@ -1,13 +1,50 @@
 /* Place CSS styles here */
+body {
+    background-color: floralwhite;
+}
 h1{
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color:darkslategray;
+    background-color: rgb(186, 203, 196);
 }
 
 p{
     margin:20pt;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
+    color:darkslategray;
 
 }
+.giz {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.para {
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkslategray;
+    margin: 2.5%;
+}
+
+.below {
+    font-family: sans-serif;
+}
+
+.pics {
+    justify-content: center;
+    display: flex;
+    margin-left:auto;
+    margin-right:auto;
+   
+}
+
+.more {
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkslategray;
+    margin: 2.5%;
+}
+
