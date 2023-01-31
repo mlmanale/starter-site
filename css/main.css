@@ -10,12 +10,29 @@ h1{
 }
 
 p{
-    margin:20pt;
+    margin: 10pt;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
-    color:darkslategray;
+    color:rebeccapurple;
 
 }
+span {
+    margin-left: 2.5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rebeccapurple;
+}
+h2 {
+    font-size: 25px;
+}
+
+h3 {
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkslategray;
+}
+
+
 .giz {
     display: block;
     margin-left: auto;
@@ -38,6 +55,7 @@ p{
     display: flex;
     margin-left:auto;
     margin-right:auto;
+    margin-bottom: 2.5%
    
 }
 
@@ -47,4 +65,11 @@ p{
     color: darkslategray;
     margin: 2.5%;
 }
+
+ul {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rebeccapurple;
+   
+}
+
 
